@@ -1,4 +1,4 @@
-tmp_project
+MyBank
 ===========
 
-A Symfony project created on January 28, 2016, 10:06 am.
+A Simple bank account management application.
