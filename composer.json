@@ -1,5 +1,6 @@
 {
-    "name": "saudoli/tmp_project",
+    "description" : "simple bank account managment application",
+    "name": "avrel/mybank",
     "license": "proprietary",
     "type": "project",
     "autoload": {
